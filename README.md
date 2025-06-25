@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Olá! Me chamo Erbeson Silva
 
-<!--
-**erbesonLeao/erbesonLeao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou soldador naval com mais de 8 anos de experiência, e atualmente estou em transição de carreira para a área de **Desenvolvimento Web**.
 
-Here are some ideas to get you started:
+🎯 Meu objetivo é conseguir minha **primeira vaga como programador**, usando meus conhecimentos em **HTML, CSS e JavaScript** para criar projetos reais e impactar vidas com tecnologia.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💻 Tecnologias que estou aprendendo:
+
+- HTML5
+- CSS3
+- JavaScript
+- Git & GitHub
+
+---
+
+## 📘 Estudando atualmente:
+
+- JavaScript avançado
+- Lógica de programação
+- Projetos práticos com DevClub
+
+---
+
+## 📫 Contato:
+
+- ✉️ E-mail: erbeson311991@gmail.com
+- 📱 WhatsApp: (92) 98177-3633
+- 💼 LinkedIn: [Clique aqui](https://www.linkedin.com/in/erbeson-silva-dev)
+
+---
+
+⭐ Obrigado por visitar meu perfil! Em breve, novos projetos estarão disponíveis aqui!
