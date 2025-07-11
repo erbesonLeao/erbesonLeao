@@ -6,7 +6,7 @@ Sou soldador naval com mais de 8 anos de experiência, e atualmente estou em tra
 
 ---
 
-## 💻 Tecnologias que tenho conhecimento
+## 💻 Tecnologias que tenho conhecimento:
 
 - HTML5
 - CSS3
