@@ -6,12 +6,20 @@ Sou soldador naval com mais de 8 anos de experiência, e atualmente estou em tra
 
 ---
 
-## 💻 Tecnologias que estou aprendendo:
+## 💻 Tecnologias que tenho conhecimento
 
 - HTML5
 - CSS3
 - JavaScript
+- JavaScript (ES6+)
 - Git & GitHub
+- TypeScript
+- Node.js
+- Express.js
+- APIs REST
+- SQL
+- PostgreSQL
+   
 
 ---
 
